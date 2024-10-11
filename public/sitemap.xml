@@ -1,49 +1,49 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://berrybraintech.com/</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/us</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/service</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/web-development</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/application-development</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/seo</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/app</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/product</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://berrybraintech.com/career</loc>
-	<lastmod>2024-10-01T21:56:16+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
+<!-- created with www.mysitemapgenerator.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://hanucode.com/</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>1.0</priority> <!-- Home page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/us</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.9</priority> <!-- About Us page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/service</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.8</priority> <!-- Services page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/web-development</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.8</priority> <!-- Web Development page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/work</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.8</priority> <!-- Work page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/seo</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.7</priority> <!-- SEO page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/app</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.7</priority> <!-- App Development page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/blog</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.6</priority> <!-- Blog page -->
+  </url>
+  <url>
+    <loc>https://hanucode.com/career</loc>
+    <lastmod>2024-10-11T12:14:22+00:00</lastmod>
+    <priority>0.7</priority> <!-- Career page -->
+  </url>
 </urlset>
