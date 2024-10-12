@@ -66,7 +66,7 @@ const Home = () => {
         {/* Updated keywords for brand name, service-based, location-based, and problem-based searches */}
         <meta
           name="keywords"
-          content="HanuCode, Hanu Code, HanuCode web development, HanuCode app development, Hanu Code graphic design, HanuCode website, web development services, app development services, custom website development, mobile app development, graphic design services, web design, SEO-friendly web development, React.js development, Node.js developers, Chandigarh, Akbarpur Ambedkar Nagar, fast-loading websites, e-commerce development, small business web development, HanuCode customer reviews"
+          content="HanuCode, Hanu Code, HanuCode web development, HanuCode app development, Hanu Code graphic design, HanuCode website, web development services, app development services, custom website development,Hanu code mobile app development, graphic design services, web design, SEO-friendly web development, React.js development, Node.js developers, Chandigarh, Akbarpur Ambedkar Nagar, fast-loading websites, e-commerce development, small business web development, HanuCode customer reviews"
         />
 
         {/* Open Graph Metadata */}
