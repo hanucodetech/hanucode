@@ -15,18 +15,16 @@ const Home = () => {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "HanuCode",
-    alternateName:
-      "hanucode, hanu code, hancode, han code, huncode, code, hanu, han, hainucode, hanucodes, hanu codes, HanuCode, huncode",
+    alternateName: "Hanu Code, HanuCode web development, HanuCode app development, Hanu Code graphic design, Hanu Code website",
     url: "https://www.hanucode.com",
-    logo: `${window.location.origin}${logo}`,  // Corrected line
+    logo: `${window.location.origin}${logo}`,
     sameAs: [
       "https://www.linkedin.com/company/hanucode",
       "https://www.instagram.com/hanucode",
       "https://m.facebook.com/61554289650556/",
       "https://www.twitter.com/hanucode",
     ],
-    description:
-      "HanuCode specializes in software development, web development, app development, web design, UI/UX, SEO, and business consulting services. We empower businesses in Chandigarh and Akbarpur Ambedkar Nagar to succeed with our innovative solutions.",
+    description: "HanuCode specializes in software development, web development, app development, web design, UI/UX, SEO, and business consulting services. We empower businesses with innovative digital solutions.",
     address: [
       {
         "@type": "PostalAddress",
@@ -55,31 +53,48 @@ const Home = () => {
   return (
     <div className="relative min-h-screen bg-white overflow-hidden">
       <Helmet>
+        {/* Title updated for brand and service-based searches */}
         <title>
-          HanuCode - Best Software, Web, and App Development Company in
-          Chandigarh & Akbarpur Ambedkar Nagar | Empower Your Business
+          HanuCode - Best Web Development, App Development & Graphic Design | Chandigarh & Akbarpur Ambedkar Nagar
         </title>
         <meta
           name="description"
-          content="HanuCode provides top-notch software development, web development, app development, UI/UX design, SEO, and business consulting services. Empower your business with our innovative solutions in Chandigarh and Akbarpur Ambedkar Nagar."
+          content="HanuCode offers web development, app development, and graphic design services in Chandigarh and Akbarpur Ambedkar Nagar. Get custom solutions for your business, from frontend and backend development to branding and UI/UX design."
         />
         <meta name="robots" content="index, follow" />
+
+        {/* Updated keywords for brand name, service-based, location-based, and problem-based searches */}
         <meta
           name="keywords"
-          content="best web design company, top software development company, app development, SEO services, business consulting, web development, mobile app development, UI/UX design, Mohali, Chandigarh, Akbarpur Ambedkar Nagar, hanucode, best software company, web design services, custom software development, top web development agency, HanuCode"
+          content="HanuCode, Hanu Code, HanuCode web development, HanuCode app development, Hanu Code graphic design, HanuCode website, web development services, app development services, custom website development, mobile app development, graphic design services, web design, SEO-friendly web development, React.js development, Node.js developers, Chandigarh, Akbarpur Ambedkar Nagar, fast-loading websites, e-commerce development, small business web development, HanuCode customer reviews"
         />
+
+        {/* Open Graph Metadata */}
         <meta
           property="og:title"
-          content="HanuCode - Best Software, Web, and App Development Company in Chandigarh & Akbarpur Ambedkar Nagar | Empower Your Business"
+          content="HanuCode - Web, App Development & Graphic Design in Chandigarh & Akbarpur Ambedkar Nagar"
         />
         <meta
           property="og:description"
-          content="HanuCode offers premium services in software development, web development, app development, UI/UX, SEO, and business consulting to elevate your business."
+          content="Get expert web development, app development, and graphic design services at HanuCode. Serving businesses in Chandigarh and Akbarpur Ambedkar Nagar."
         />
         <meta property="og:url" content="https://hanucode.com" />
         <meta property="og:type" content="website" />
+        <meta property="og:image" content={`${window.location.origin}${logo}`} />
 
-        {/* Add the JSON-LD schema inside the Helmet */}
+        {/* Twitter Card Metadata */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content="HanuCode - Web, App Development & Graphic Design | Chandigarh & Akbarpur Ambedkar Nagar"
+        />
+        <meta
+          name="twitter:description"
+          content="HanuCode provides top-tier web development, app development, and graphic design solutions for businesses. Serving Chandigarh and Akbarpur Ambedkar Nagar."
+        />
+        <meta name="twitter:image" content={`${window.location.origin}${logo}`} />
+
+        {/* JSON-LD structured data */}
         <script type="application/ld+json">
           {JSON.stringify(organizationSchema)}
         </script>
