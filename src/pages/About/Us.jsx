@@ -74,7 +74,7 @@ const Us = () => {
   return (
     <div className="relative min-h-screen bg-white overflow-hidden">
       <Helmet>
-        <title>About Us - HanuCode | Your Trusted Technology Partner</title>
+        <title>About Us - HanuCode | Web & App Development Experts</title>
         <meta
           name="description"
           content="Learn more about HanuCode, a leading provider of web development, application development, and digital solutions for businesses. Discover our mission, values, and expertise in custom development."
