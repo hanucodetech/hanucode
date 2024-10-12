@@ -9,7 +9,7 @@ const Us = () => {
     "@type": "Organization",
     name: "HanuCode",
     alternateName:
-      "hanucode, hanu code, hancode, han code, huncode, code, hanu, han, hainucode, hanucodes, hanu codes, HanuCode, huncode",
+      "Hanu Code, hanucode, hanu code, hancode, han code, huncode, code, hanu, han, hainucode, hanucodes, hanu codes, HanuCode, huncode",
     url: "https://www.hanucode.com",
     logo: `${window.location.origin}${logo}`,
     sameAs: [
