@@ -116,10 +116,10 @@ const About = () => {
             <div>
               <h2 class="text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl lg:text-5xl">
                 Hey 👋 We are team
-                <br class="block sm:hidden" /> Berrybraintech
+                <br class="block sm:hidden" /> HanuCode
               </h2>
               <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 dark:text-gray-300 md:mt-8">
-                At Berrybraintech, we are dedicated to providing innovative
+                At hanucode, we are dedicated to providing innovative
                 solutions that empower businesses and enhance user experiences.
                 Our team of experts is committed to excellence and driven by a
                 passion for technology and creativity.
