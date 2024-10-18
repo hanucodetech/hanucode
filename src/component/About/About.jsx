@@ -6,7 +6,7 @@ const Vision = () => {
   return (
     <section class="bg-white py-16">
       <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl font-extrabold text-gray-900">Our Vision</h2>
+        <h1 class="text-3xl font-extrabold text-gray-900">Our Vision</h1>
         <div class="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
           <div>
             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
@@ -114,10 +114,10 @@ const About = () => {
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
           <div class="grid items-center grid-cols-1 md:grid-cols-2">
             <div>
-              <h2 class="text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl lg:text-5xl">
+              <h1 class="text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl lg:text-5xl">
                 Hey 👋 We are team
                 <br class="block sm:hidden" /> HanuCode
-              </h2>
+              </h1>
               <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 dark:text-gray-300 md:mt-8">
                 At hanucode, we are dedicated to providing innovative
                 solutions that empower businesses and enhance user experiences.

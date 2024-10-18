@@ -13,9 +13,9 @@ const Us = () => {
     url: "https://www.hanucode.com",
     logo: `${window.location.origin}${logo}`,
     sameAs: [
-      "https://www.linkedin.com/company/hanucode",
+      "https://www.linkedin.com/company/hanu-code",
       "https://www.instagram.com/hanucode",
-      "https://m.facebook.com/61554289650556/",
+      "https://m.facebook.com/hanucode",
       "https://www.twitter.com/hanucode",
     ],
     description:

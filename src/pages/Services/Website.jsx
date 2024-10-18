@@ -18,9 +18,9 @@ const Website = () => {
     url: "https://www.hanucode.com",
     logo: `${window.location.origin}${logo}`,
     sameAs: [
-      "https://www.linkedin.com/company/hanucode",
+      "https://www.linkedin.com/company/hanu-code",
       "https://www.instagram.com/hanucode",
-      "https://m.facebook.com/61554289650556/",
+      "https://m.facebook.com/hanucode",
       "https://www.twitter.com/hanucode",
     ],
     description: "HanuCode specializes in software development, web development, app development, web design, UI/UX, SEO, and business consulting services. We empower businesses in Chandigarh and Akbarpur Ambedkar Nagar to succeed with our innovative solutions.",

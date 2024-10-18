@@ -50,7 +50,7 @@ const Career = () => {
                                     Join our UI/UX team to design intuitive and engaging user experiences that drive innovation and customer satisfaction.
                                 </p>
                                 <div className="w-full flex justify-center pt-5 pb-5">
-                                    <a href="#" className="mx-5">
+                                    <a href="https://forms.gle/xQvQJn9AeJvjFLY7A"  target="_blank" className="mx-5">
                                         <button className="border border-blue-500 text-blue-500 py-2 px-6 rounded hover:bg-blue-500 hover:text-white transition duration-300">
                                             Apply Now
                                         </button>
@@ -97,7 +97,7 @@ const Career = () => {
                                 <p className="text-center text-gray-600 text-base pt-3 font-normal">
                                     Create engaging web applications with a focus on user experience and modern front-end technologies.  </p>
                                 <div className="w-full flex justify-center pt-5 pb-5">
-                                    <a href="#" className="mx-5">
+                                    <a href="https://forms.gle/xQvQJn9AeJvjFLY7A"  target="_blank" className="mx-5">
                                         <button className="border border-blue-500 text-blue-500 py-2 px-6 rounded hover:bg-blue-500 hover:text-white transition duration-300">
                                             Apply Now
                                         </button>
