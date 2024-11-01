@@ -10,7 +10,7 @@ const Feature = () => {
             <div className="mb-16 text-center">
               {/* <h4 className="text-base text-indigo-600 font-semibold tracking-wide uppercase">Features</h4> */}
               <p className="mt-2 text-5xl lg:text-7xl font-bold tracking-tight text-gray-900">
-                How We Change your Dream              </p>
+                How We Change your Dream </p>
             </div>
 
             <div className="flex flex-wrap my-12">

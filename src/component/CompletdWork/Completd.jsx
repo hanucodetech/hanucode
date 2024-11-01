@@ -5,6 +5,7 @@ import svv from "../../assets/svv.png";
 import life from "../../assets/life.png";
 import gym from "../../assets/gym.png";
 import namo from "../../assets/namo.png";
+import sunsolar from "../../assets/sunsolar.png";
 const Completd = () => {
   return (
     <div>
@@ -41,6 +42,21 @@ const Completd = () => {
       </section>
 
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 justify-items-center py-6">
+      <div className="relative flex flex-col justify-center overflow-hidden bg-gray-50 py-6">
+          <div className="group relative cursor-pointer overflow-hidden bg-white shadow-xl ring-1 ring-gray-900/5 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl sm:max-w-sm sm:rounded-lg">
+            <div className="relative z-10 mx-auto max-w-md h-64">
+              <img
+                src={sunsolar}
+                className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
+                alt="Card background"
+              />
+              {/* Button appears on hover */}
+              <a href="https://www.sunsolarindustry.in/" alt="sun solar industry" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">
+                Visit Now
+              </a>
+            </div>
+          </div>
+        </div>
         <div className="relative flex flex-col justify-center overflow-hidden bg-gray-50 py-6">
           <div className="group relative cursor-pointer overflow-hidden bg-white shadow-xl ring-1 ring-gray-900/5 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl sm:max-w-sm sm:rounded-lg">
             <div className="relative z-10 mx-auto max-w-md h-64">

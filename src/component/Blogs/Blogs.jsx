@@ -12,7 +12,6 @@ const Blogs = () => {
        
         <img src={hanu} alt="Blog Cover" class="xl:w-[80%] xs:w-[96%] mx-auto lg:h-[560px] md:h-[480px] rounded-lg" />
 
-        
         <h1 class="w-[92%] mx-auto lg:text-4xl md:text-3xl xs:text-2xl text-center font-serif font-semibold pb-4 pt-8 dark:text-white">
         Latest Blog</h1>
 

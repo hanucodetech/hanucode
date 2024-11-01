@@ -19,7 +19,7 @@ const Team = () => {
               <button class="cursor-pointer py-3 px-8 w-60 bg-indigo-600 text-white text-base font-semibold transition-all duration-500 block text-center rounded-full hover:bg-indigo-700 mx-auto lg:mx-0">
               <a
             href="tel:7905796216">
-          Schedule a call</a>
+            Schedule a call</a>
               </button>
             </div>
             <div class="w-full lg:w-1/2 lg:mt-0 md:mt-40 mt-16 max-lg:max-w-2xl">
