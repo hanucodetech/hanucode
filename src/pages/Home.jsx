@@ -15,7 +15,7 @@ const Home = () => {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "HanuCode",
-    alternateName: "Hanu Code, HanuCode web development, HanuCode app development, Hanu Code graphic design, Hanu Code website",
+    alternateName: "hanu code, Hanu Code, HanuCode web development, HanuCode app development, Hanu Code graphic design, Hanu Code website",
     url: "https://www.hanucode.com",
     logo: `${window.location.origin}${logo}`,
     sameAs: [
