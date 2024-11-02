@@ -48,6 +48,28 @@ const Home = () => {
       telephone: "+91-7905796216",
       contactType: "Customer Support",
     },
+    potentialAction: [
+      {
+        "@type": "WebSite",
+        name: "About Us",
+        url: "https://www.hanucode.com/us",
+      },
+      {
+        "@type": "WebSite",
+        name: "Services",
+        url: "https://www.hanucode.com/service",
+      },
+      {
+        "@type": "WebSite",
+        name: "Portfolio",
+        url: "https://www.hanucode.com/work",
+      },
+      {
+        "@type": "WebSite",
+        name: "Web Development",
+        url: "https://www.hanucode.com//web-development",
+      },
+    ],
   };
 
   return (

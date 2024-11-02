@@ -425,15 +425,16 @@ const Footer = () => {
                   <ul class="flex flex-col max-lg:items-center gap-6">
                     <li>
                       <a
-                        href="javascript:;"
+                        href="/home"
                         class="text-base font-normal max-lg:text-center text-gray-400 whitespace-nowrap transition-all duration-300 hover:text-amber-400 focus-within:outline-0 focus-within:text-amber-400"
                       >
                         Home
                       </a>
+                      
                     </li>
                     <li>
                       <a
-                        href="javascript:;"
+                        href="/about"
                         class="text-base font-normal max-lg:text-center text-gray-400 whitespace-nowrap transition-all duration-300 hover:text-amber-400 focus-within:outline-0 focus-within:text-amber-400"
                       >
                         About
@@ -441,7 +442,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:;"
+                        href="/service"
                         class="text-base font-normal max-lg:text-center text-gray-400 whitespace-nowrap transition-all duration-300 hover:text-amber-400 focus-within:outline-0 focus-within:text-amber-400"
                       >
                         Services
@@ -449,10 +450,10 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:;"
+                        href="/web-development"
                         class="text-base font-normal max-lg:text-center text-gray-400 whitespace-nowrap transition-all duration-300 hover:text-amber-400 focus-within:outline-0 focus-within:text-amber-400"
                       >
-                        Products
+                        Web-Development
                       </a>
                     </li>
                   </ul>
@@ -511,7 +512,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:;"
+                        href="/home"
                         class="text-base font-normal text-gray-400 whitespace-nowrap transition-all duration-300 hover:text-amber-400 focus-within:outline-0 focus-within:text-amber-400"
                       >
                         Quick Start
@@ -564,12 +565,14 @@ const Footer = () => {
                 </div>
               </div>
             </div>
+            
             <div class="flex flex-col-reverse sm:flex-row items-center justify-between gap-5 pt-7">
               <span class="text-sm font-normal text-gray-400">
                 <a href="https://www.hanucode.com/" class="">
-                  ©hanucode
+                <p>&copy; {new Date().getFullYear()} HanuCode. All rights reserved.</p>
+                  
                 </a>{" "}
-                2024, All rights reserved.
+
               </span>
               <div class="relative  text-gray-500 focus-within:text-gray-900 ">
                 <div class="absolute inset-y-0 right-6 flex items-center pl-3 pointer-events-none ">
