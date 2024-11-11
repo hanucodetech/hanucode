@@ -39,9 +39,9 @@ const Product = () => {
 <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
   <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
     {/* First image for large screens */}
-    <img src={school} className="hidden md:block w-full h-auto" alt="Description" />
+    <img src={school} className="hidden md:block w-full h-auto" alt="scholl website" />
     {/* Second image for medium and small screens */}
-    <img src={school} className="md:hidden w-full h-1/2" alt="Description" />
+    <img src={school} className="md:hidden w-full h-1/2" alt="hanucode provide best school website" />
     <div className="space-y-2">
       <h3 className="text-center font-bold">School Management</h3>
     </div>
@@ -50,9 +50,9 @@ const Product = () => {
 <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
   <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
     {/* First image for large screens */}
-    <img src={hosp} className="hidden md:block w-full h-auto" alt="Description" />
+    <img src={hosp} className="hidden md:block w-full h-auto" alt="hospital website hancode" />
     {/* Second image for medium and small screens */}
-    <img src={hosp} className="md:hidden w-full h-1/2" alt="Description" />
+    <img src={hosp} className="md:hidden w-full h-1/2" alt="hanucode provide best school website" />
     <div className="space-y-2">
       <h3 className="text-center font-bold">Hospital Management</h3>
     </div>
@@ -62,9 +62,9 @@ const Product = () => {
 <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
   <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
     {/* First image for large screens */}
-    <img src={clg} className="hidden md:block w-full h-auto" alt="Description" />
+    <img src={clg} className="hidden md:block w-full h-auto" alt="hancode" />
     {/* Second image for medium and small screens */}
-    <img src={clg} className="md:hidden w-full h-1/2" alt="Description" />
+    <img src={clg} className="md:hidden w-full h-1/2" alt="hanucode provide best college website" />
     <div className="space-y-2">
       <h3 className="text-center font-bold">Collage Management</h3>
     </div>
@@ -74,9 +74,9 @@ const Product = () => {
 <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
   <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
     {/* First image for large screens */}
-    <img src={hot} className="hidden md:block w-full h-auto" alt="Description" />
+    <img src={hot} className="hidden md:block w-full h-auto" alt="hotel seo by hancode" />
     {/* Second image for medium and small screens */}
-    <img src={hot} className="md:hidden w-full h-1/2" alt="Description" />
+    <img src={hot} className="md:hidden w-full h-1/2" alt=" best hotel website by hanucode" />
     <div className="space-y-2">
       <h3 className="text-center font-bold">Hotel Management</h3>
     </div>
@@ -86,9 +86,9 @@ const Product = () => {
 <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
   <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
     {/* First image for large screens */}
-    <img src={res} className="hidden md:block w-full h-auto" alt="Description" />
+    <img src={res} className="hidden md:block w-full h-auto" alt="good restrorent" />
     {/* Second image for medium and small screens */}
-    <img src={res} className="md:hidden w-full h-1/2" alt="Description" />
+    <img src={res} className="md:hidden w-full h-1/2" alt="hanucode provide best restorent website" />
     <div className="space-y-2">
       <h3 className="text-center font-bold">Restaurant Management</h3>
     </div>
@@ -100,7 +100,7 @@ const Product = () => {
     {/* First image for large screens */}
     <img src={gst} className="hidden md:block w-full h-auto" alt="Description" />
     {/* Second image for medium and small screens */}
-    <img src={gst} className="md:hidden w-full h-1/2" alt="Description" />
+    <img src={gst} className="md:hidden w-full h-1/2" alt="hanucode provide best billing website" />
     <div className="space-y-2">
       <h3 className="text-center font-bold">GST Billing System</h3>
     </div>
@@ -111,7 +111,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={trav}></img>
+           <img src={trav} alt='treval website by hanu code'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Travel Software</h3>
                   </div>
@@ -120,7 +120,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={soc}></img>
+           <img src={soc} alt='best web design by hanucode'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Co. Operative Society Software</h3>
                   </div>
@@ -129,7 +129,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={cru}></img>
+           <img src={cru} alt='web design hanucod'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Crusher Management System</h3>
                   </div>
@@ -138,7 +138,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={mlm}></img>
+           <img src={mlm} alt='mlm'/>
             <div class="space-y-2">
                 <h3 class="font-bold">MLM Software</h3>
                   </div>
@@ -147,7 +147,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={coa}></img>
+           <img src={coa} alt='best coaching website'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Coaching Institute  Software</h3>
                   </div>
@@ -156,7 +156,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={dai}></img>
+           <img src={dai} alt='web design comapny in ambedkar nagar'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Daily Collection</h3>
                   </div>
@@ -165,7 +165,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={rec}></img>
+           <img src={rec} alt='han cod'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Online Recharge</h3>
                   </div>
@@ -174,7 +174,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={gra}></img>
+           <img src={gra} alt='best graphic design in ambedkar nagar'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Geaphic Design</h3>
                   </div>
@@ -183,7 +183,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={inv}></img>
+           <img src={inv} alt='best website company in akbarpur' />
             <div class="space-y-2">
                 <h3 class="font-bold">Inventory Management Software</h3>
                   </div>
@@ -192,7 +192,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={acc}></img>
+           <img src={acc} alt='good web design company in akbarpur abmedkar nagar'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Account Management Software</h3>
                   </div>
@@ -201,7 +201,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={com}></img>
+           <img src={com} alt='best software by hanucode'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Community Management Software</h3>
                   </div>
@@ -210,7 +210,7 @@ const Product = () => {
     <div
         class="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2 md:block hidden">
         <div class="flex h-[180px] flex-col justify-between rounded-md p-6">
-           <img src={real}></img>
+           <img src={real}alt='best real state website'/>
             <div class="space-y-2">
                 <h3 class="font-bold">Real State Management</h3>
                   </div>

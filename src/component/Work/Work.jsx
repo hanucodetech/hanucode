@@ -35,7 +35,7 @@ const Work = () => {
           <img
             className="h-56 w-full object-cover object-top sm:h-72 md:h-96 sm:ml-20 lg:w-full lg:h-full"
             src={what}
-            alt=""
+            alt="best web design work by hanu code"
           />
         </div>
       </div>

@@ -19,9 +19,9 @@ const Hero = () => {
 
       {/* Hero Content */}
       <div className="relative z-10 h-full  flex flex-col justify-center items-start text-left px-4">
-        <h1 className="text-5xl md:text-5xl  font-bold leading-tight mt-20">
+        <p className="text-5xl md:text-5xl  font-bold leading-tight mt-20">
           Custom Product &<br /> Software Development
-        </h1>
+        </p>
         <p className="mt-4 text-2xl md:text-5xl font-medium">
           Focused On Your Success
         </p>

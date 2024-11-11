@@ -44,9 +44,9 @@ const Cards = () => {
                 <path d="M18 28h12v4H18z" fill="white" />
               </svg>
             </div>
-            <h1 className="text-darken mb-3 text-xl font-medium lg:px-14">
+            <p className="text-darken mb-3 text-xl font-medium lg:px-14">
               PRODUCT SCOPE
-            </h1>
+            </p>
             <p className="px-4 text-gray-500">
               The Product Scope includes a comprehensive range of services
               designed to meet customer needs. From initial consultation to
@@ -74,9 +74,9 @@ const Cards = () => {
                 />
               </svg>
             </div>
-            <h1 className="text-darken mb-3 text-xl font-medium lg:px-14">
+            <p className="text-darken mb-3 text-xl font-medium lg:px-14">
               SOCIAL MEDIA MANAGEMENT
-            </h1>
+            </p>
             <p className="px-4 text-gray-500">
               Our social media management services help you build and engage
               your online community. We create tailored strategies to enhance
@@ -103,9 +103,9 @@ const Cards = () => {
                 />
               </svg>
             </div>
-            <h1 className="text-darken mb-3 text-xl font-medium lg:px-14">
+            <p className="text-darken mb-3 text-xl font-medium lg:px-14">
               DEDICATED TEAM
-            </h1>
+            </p>
             <p className="px-4 text-gray-500">
               Our dedicated team provides specialized support tailored to your
               project needs. We ensure seamless communication and collaboration
@@ -325,9 +325,9 @@ const Cards = () => {
                 {/* Card header */}
                 <div className="w-full sm:flex justify-center items-center mb-3">
                   {/* Title */}
-                  <h1 className="text-4xl  leading-snug font-extrabold text-gray-50 truncate mb-1 sm:mb-0">
+                  <p className="text-4xl  leading-snug font-extrabold text-gray-50 truncate mb-1 sm:mb-0">
                     100% Client Satisfaction
-                  </h1>
+                  </p>
                 </div>
                 {/* Card body */}
                 <div className="flex items-end justify-center whitespace-normal">

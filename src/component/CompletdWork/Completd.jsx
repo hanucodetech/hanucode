@@ -48,7 +48,7 @@ const Completd = () => {
               <img
                 src={sunsolar}
                 className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
-                alt="Card background"
+                alt="hanu code project sun solar industry"
               />
               {/* Button appears on hover */}
               <a href="https://www.sunsolarindustry.in/" alt="sun solar industry" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">
@@ -63,7 +63,7 @@ const Completd = () => {
               <img
                 src={hos}
                 className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
-                alt="Card background"
+                alt="hanucode project"
               />
               {/* Button appears on hover */}
               <a href="https://sarojhospitaljhansi.in/" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">
@@ -78,7 +78,7 @@ const Completd = () => {
               <img
                 src={svv}
                 className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
-                alt="Card background"
+                alt="develop by hanucode team"
               />
               {/* Button appears on hover */}
               <a href="https://www.svatsalyaacademy.com/" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">
@@ -93,7 +93,7 @@ const Completd = () => {
               <img
                 src={namo}
                 className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
-                alt="Card background"
+                alt="project of hanucode"
               />
               {/* Button appears on hover */}
               <a href="https://www.namohomes.com/" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">
@@ -108,7 +108,7 @@ const Completd = () => {
               <img
                 src={life}
                 className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
-                alt="Card background"
+                alt="han code project "
               />
               {/* Button appears on hover */}
               <a href="https://www.lifecarehospitalindia.com/" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">
@@ -123,7 +123,7 @@ const Completd = () => {
               <img
                 src={gym}
                 className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
-                alt="Card background"
+                alt="hanu code gym website"
               />
               {/* Button appears on hover */}
               <a href="https://burngymclub.com/" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">
@@ -138,7 +138,7 @@ const Completd = () => {
               <img
                 src={hospp}
                 className="inset-0 h-full w-full object-cover transition-all duration-300 group-hover:brightness-50"
-                alt="Card background"
+                alt="design by hanucode"
               />
               {/* Button appears on hover */}
               <a href="https://starhospitalindia.com/" className="hidden group-hover:flex items-center justify-center absolute inset-0 bg-black bg-opacity-50 text-white text-lg font-semibold transition-all duration-300">

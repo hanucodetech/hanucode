@@ -12,11 +12,11 @@ const Footer = () => {
                 <a href="/" class="block w-56 text-4xl mb-10">
                   HanuCode
                 </a>
-                <h1 className="text-8xl text-white">
+                <p className="text-8xl text-white">
                   Let’s talk about
                   <br />
                   your project
-                </h1>
+                </p>
                 <div>
                   <a
                     href="tel:7905796216"
@@ -159,7 +159,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="hanu cod"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -182,7 +182,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="hancode"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -204,7 +204,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="hanucod"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -227,7 +227,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="han code"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -249,7 +249,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="hanu code"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -272,7 +272,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="onsite seo"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -294,7 +294,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="best digital marketing company"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -315,7 +315,7 @@ const Footer = () => {
                     <div className="w-10 rounded-full">
                       {" "}
                       <img
-                        alt="Tailwind CSS chat bubble component"
+                        alt="best web design company"
                         src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
                       />{" "}
                     </div>{" "}
@@ -345,7 +345,7 @@ const Footer = () => {
               </a>
               <div class="flex items-center gap-4">
                 <a
-                  href="javascript:;"
+                  href="https://m.facebook.com/hanucode"
                   class="p-3 rounded-full bg-white text-gray-700 group transition-all duration-500 hover:bg-amber-500 hover:text-white focus-within:outline-0 focus-within:bg-amber-500 focus-within:text-white"
                 >
                   <svg
@@ -379,7 +379,7 @@ const Footer = () => {
                   </svg>
                 </a>
                 <a
-                  href="javascript:;"
+                  href="https://www.twitter.com/hanucode"
                   class="p-3 rounded-full bg-white text-gray-700 group transition-all duration-500 hover:bg-amber-500 hover:text-white focus-within:outline-0 focus-within:bg-amber-500 focus-within:text-white"
                 >
                   <svg
@@ -396,7 +396,7 @@ const Footer = () => {
                   </svg>
                 </a>
                 <a
-                  href="javascript:;"
+                  href="https://www.youtube.com/@HanuCode"
                   class="p-3 rounded-full bg-white text-gray-700 group transition-all duration-500 hover:bg-amber-500 hover:text-white focus-within:outline-0 focus-within:bg-amber-500 focus-within:text-white"
                 >
                   <svg
@@ -452,8 +452,8 @@ const Footer = () => {
                       <a
                         href="/web-development"
                         class="text-base font-normal max-lg:text-center text-gray-400 whitespace-nowrap transition-all duration-300 hover:text-amber-400 focus-within:outline-0 focus-within:text-amber-400"
-                      >
-                        Web-Development
+                      ><h1>Web Development</h1>
+                        
                       </a>
                     </li>
                   </ul>
@@ -542,7 +542,7 @@ const Footer = () => {
                   <div className="card bg-base-300 rounded-box flex-grow flex flex-col items-center justify-center h-32 lg:h-48 p-4">
                     <img
                       src={think}
-                      alt="Client's Logo"
+                      alt="hanu"
                       className="w-20 h-20 mb-2"
                     />
                     <h2 className="text-lg font-semibold">

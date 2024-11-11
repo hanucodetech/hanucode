@@ -77,11 +77,11 @@ const Home = () => {
       <Helmet>
         {/* Title updated for brand and service-based searches */}
         <title>
-          HanuCode - Best Web Development, App Development & Graphic Design | Chandigarh & Akbarpur Ambedkar Nagar
+          HanuCode - Best Web & App Development & Graphic Design
         </title>
         <meta
           name="description"
-          content="HanuCode offers web development, app development, and graphic design services in Chandigarh and Akbarpur Ambedkar Nagar. Get custom solutions for your business, from frontend and backend development to branding and UI/UX design."
+          content="HanuCode offers web development, app development, and graphic design services in Chandigarh and Akbarpur Ambedkar Nagar. Get custom solutions for your business."
         />
         <meta name="robots" content="index, follow" />
 

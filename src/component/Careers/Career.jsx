@@ -40,7 +40,7 @@ const Career = () => {
                         <div className="rounded overflow-hidden shadow-md bg-white">
                             <div className="absolute -mt-20 w-full flex justify-center">
                                 <div className="h-32 w-32">
-                                    <img src={ui} className="rounded-full object-cover h-full w-full shadow-md" />
+                                    <img src={ui} alt='carrer in hanucode' className="rounded-full object-cover h-full w-full shadow-md" />
                                 </div>
                             </div>
                             <div className="px-6 mt-16">
@@ -63,7 +63,7 @@ const Career = () => {
                         <div className="rounded overflow-hidden shadow-md bg-white">
                             <div className="absolute -mt-20 w-full flex justify-center">
                                 <div className="h-32 w-32">
-                                    <img src={bde} className="rounded-full object-cover h-full w-full shadow-md" />
+                                    <img src={bde} alt='best seo in akbarpur' className="rounded-full object-cover h-full w-full shadow-md" />
                                 </div>
                             </div>
                             <div className="px-6 mt-16">
@@ -87,7 +87,7 @@ const Career = () => {
                         <div className="rounded overflow-hidden shadow-md bg-white">
                             <div className="absolute -mt-20 w-full flex justify-center">
                                 <div className="h-32 w-32">
-                                    <img src={front} className="rounded-full object-cover h-full w-full shadow-md" />
+                                    <img src={front} alt='best company in ambedkar nagar' className="rounded-full object-cover h-full w-full shadow-md" />
                                 </div>
                             </div>
                             <div className="px-6 mt-16">

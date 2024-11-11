@@ -27,7 +27,7 @@ const Team = () => {
                 <img
                   src={neerajpic}
                   //src="https://pagedone.io/asset/uploads/1696238702.png"
-                  alt="Hanu Code"
+                  alt="Hanu Code team"
                   class="w-44 h-56 rounded-2xl object-cover md:mt-20 mx-auto min-[450px]:mr-0"
                 />
 
@@ -49,12 +49,12 @@ const Team = () => {
                 /> */}
                 <img
                   src="https://pagedone.io/asset/uploads/1696238720.png"
-                  alt="Team tailwind section"
+                  alt="hanucode team"
                   class="w-44 h-56 rounded-2xl object-cover md:-mt-20 mx-auto min-[450px]:mr-0 md:mx-auto"
                 />
                 <img
                   src="https://pagedone.io/asset/uploads/1696238737.png"
-                  alt="Team tailwind section"
+                  alt="hanu code team"
                   class="w-44 h-56 rounded-2xl object-cover mx-auto min-[450px]:ml-0 md:mr-0"
                 />
                 

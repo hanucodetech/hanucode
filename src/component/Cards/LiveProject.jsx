@@ -9,7 +9,7 @@ const LiveProject = () => {
         <div className="camera"></div>
         <div className="display">
           <div className="artboard artboard-demo phone-1">
-            <img src={tms} className="h-full" />
+            <img src={tms} alt="project hanucod" className="h-full" />
           </div>
         </div>
       </div>
@@ -18,7 +18,7 @@ const LiveProject = () => {
         <div className="display">
           <div className="artboard artboard-demo phone-1">
             <a href="https://svatsalyaacademy.com/" className="h-full">
-              <img src={sv} className="h-full" />
+              <img src={sv} alt="hanucode project" className="h-full" />
             </a>
           </div>
         </div>
@@ -27,7 +27,7 @@ const LiveProject = () => {
         <div className="camera"></div>
         <div className="display">
           <div className="artboard artboard-demo phone-1">
-            <img src={or} className="h-full" />
+            <img src={or} alt="hanu code projects" className="h-full" />
           </div>
         </div>
       </div>
