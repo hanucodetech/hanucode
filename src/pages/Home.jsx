@@ -115,7 +115,6 @@ const Home = () => {
           content="HanuCode provides top-tier web development, app development, and graphic design solutions for businesses. Serving Chandigarh and Akbarpur Ambedkar Nagar."
         />
         <meta name="twitter:image" content={`${window.location.origin}${logo}`} />
-
         {/* JSON-LD structured data */}
         <script type="application/ld+json">
           {JSON.stringify(organizationSchema)}
