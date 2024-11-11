@@ -1,5 +1,5 @@
 import React from "react";
-import think from '../../assets/think.jpg';
+import think from "../../assets/think.jpg";
 import hanu from "../../assets/hanubglogo.png";
 const Footer = () => {
   return (
@@ -25,129 +25,129 @@ const Footer = () => {
                     Book a Call
                   </a>
 
-                <div className="hidden md:block">
-                <ul className="timeline mt-20  ">
-                    {" "}
-                    <li>
+                  <div className="hidden md:block">
+                    <ul className="timeline mt-20  ">
                       {" "}
-                      <div className="timeline-start timeline-box">
-                        Client Briefing
-                      </div>{" "}
-                      <div className="timeline-middle">
+                      <li>
                         {" "}
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                          className="h-5 w-5"
-                        >
+                        <div className="timeline-start timeline-box">
+                          Client Briefing
+                        </div>{" "}
+                        <div className="timeline-middle">
                           {" "}
-                          <path
-                            fillRule="evenodd"
-                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
-                            clipRule="evenodd"
-                          />{" "}
-                        </svg>{" "}
-                      </div>{" "}
-                      <hr />{" "}
-                    </li>{" "}
-                    <li>
-                      {" "}
-                      <hr />{" "}
-                      <div className="timeline-middle">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 20 20"
+                            fill="currentColor"
+                            className="h-5 w-5"
+                          >
+                            {" "}
+                            <path
+                              fillRule="evenodd"
+                              d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                              clipRule="evenodd"
+                            />{" "}
+                          </svg>{" "}
+                        </div>{" "}
+                        <hr />{" "}
+                      </li>{" "}
+                      <li>
                         {" "}
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                          className="h-5 w-5"
-                        >
+                        <hr />{" "}
+                        <div className="timeline-middle">
                           {" "}
-                          <path
-                            fillRule="evenodd"
-                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
-                            clipRule="evenodd"
-                          />{" "}
-                        </svg>{" "}
-                      </div>{" "}
-                      <div className="timeline-end timeline-box">
-                        Research & Analysis
-                      </div>{" "}
-                      <hr />{" "}
-                    </li>{" "}
-                    <li>
-                      {" "}
-                      <hr />{" "}
-                      <div className="timeline-start timeline-box">
-                        Prototype Development
-                      </div>{" "}
-                      <div className="timeline-middle">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 20 20"
+                            fill="currentColor"
+                            className="h-5 w-5"
+                          >
+                            {" "}
+                            <path
+                              fillRule="evenodd"
+                              d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                              clipRule="evenodd"
+                            />{" "}
+                          </svg>{" "}
+                        </div>{" "}
+                        <div className="timeline-end timeline-box">
+                          Research & Analysis
+                        </div>{" "}
+                        <hr />{" "}
+                      </li>{" "}
+                      <li>
                         {" "}
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                          className="h-5 w-5"
-                        >
+                        <hr />{" "}
+                        <div className="timeline-start timeline-box">
+                          Prototype Development
+                        </div>{" "}
+                        <div className="timeline-middle">
                           {" "}
-                          <path
-                            fillRule="evenodd"
-                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
-                            clipRule="evenodd"
-                          />{" "}
-                        </svg>{" "}
-                      </div>{" "}
-                      <hr />{" "}
-                    </li>{" "}
-                    <li>
-                      {" "}
-                      <hr />{" "}
-                      <div className="timeline-middle">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 20 20"
+                            fill="currentColor"
+                            className="h-5 w-5"
+                          >
+                            {" "}
+                            <path
+                              fillRule="evenodd"
+                              d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                              clipRule="evenodd"
+                            />{" "}
+                          </svg>{" "}
+                        </div>{" "}
+                        <hr />{" "}
+                      </li>{" "}
+                      <li>
                         {" "}
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                          className="h-5 w-5"
-                        >
+                        <hr />{" "}
+                        <div className="timeline-middle">
                           {" "}
-                          <path
-                            fillRule="evenodd"
-                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
-                            clipRule="evenodd"
-                          />{" "}
-                        </svg>{" "}
-                      </div>{" "}
-                      <div className="timeline-end timeline-box">
-                        User Testing
-                      </div>{" "}
-                      <hr />{" "}
-                    </li>{" "}
-                    <li>
-                      {" "}
-                      <hr />{" "}
-                      <div className="timeline-start timeline-box">
-                        Final Launch
-                      </div>{" "}
-                      <div className="timeline-middle">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 20 20"
+                            fill="currentColor"
+                            className="h-5 w-5"
+                          >
+                            {" "}
+                            <path
+                              fillRule="evenodd"
+                              d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                              clipRule="evenodd"
+                            />{" "}
+                          </svg>{" "}
+                        </div>{" "}
+                        <div className="timeline-end timeline-box">
+                          User Testing
+                        </div>{" "}
+                        <hr />{" "}
+                      </li>{" "}
+                      <li>
                         {" "}
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
-                          className="h-5 w-5"
-                        >
+                        <hr />{" "}
+                        <div className="timeline-start timeline-box">
+                          Final Launch
+                        </div>{" "}
+                        <div className="timeline-middle">
                           {" "}
-                          <path
-                            fillRule="evenodd"
-                            d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
-                            clipRule="evenodd"
-                          />{" "}
-                        </svg>{" "}
-                      </div>{" "}
-                    </li>{" "}
-                  </ul>
-                </div>
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 20 20"
+                            fill="currentColor"
+                            className="h-5 w-5"
+                          >
+                            {" "}
+                            <path
+                              fillRule="evenodd"
+                              d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                              clipRule="evenodd"
+                            />{" "}
+                          </svg>{" "}
+                        </div>{" "}
+                      </li>{" "}
+                    </ul>
+                  </div>
                 </div>
               </div>
 
@@ -340,7 +340,7 @@ const Footer = () => {
           <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div class="flex flex-col sm:flex-row items-center justify-between pb-14 border-b border-gray-500 gap-8">
               <a href="https://hanucode.com/" class="">
-              <img src={hanu} alt="hanucode" className="" />
+                <img src={hanu} alt="hanucode" className="" />
                 {/* <h1 className="text-white font-bold">HanuCode1</h1> */}
               </a>
               <div class="flex items-center gap-4">
@@ -430,7 +430,6 @@ const Footer = () => {
                       >
                         Home
                       </a>
-                      
                     </li>
                     <li>
                       <a
@@ -452,8 +451,8 @@ const Footer = () => {
                       <a
                         href="/web-development"
                         class="text-base font-normal max-lg:text-center text-gray-400 whitespace-nowrap transition-all duration-300 hover:text-amber-400 focus-within:outline-0 focus-within:text-amber-400"
-                      ><h1>Web Development</h1>
-                        
+                      >
+                        <h1>Web Development</h1>
                       </a>
                     </li>
                   </ul>
@@ -540,11 +539,7 @@ const Footer = () => {
               <div class="w-full lg:max-w-md max-lg:mx-auto ">
                 <div className="flex w-full flex-col lg:flex-row items-center">
                   <div className="card bg-base-300 rounded-box flex-grow flex flex-col items-center justify-center h-32 lg:h-48 p-4">
-                    <img
-                      src={think}
-                      alt="hanu"
-                      className="w-20 h-20 mb-2"
-                    />
+                    <img src={think} alt="hanu" className="w-20 h-20 mb-2" />
                     <h2 className="text-lg font-semibold">
                       Your Client's Brand
                     </h2>
@@ -552,7 +547,9 @@ const Footer = () => {
                       Building software that enhances your business.
                     </p>
                   </div>
-                  <div className="divider text-white lg:divider-horizontal">OR</div>
+                  <div className="divider text-white lg:divider-horizontal">
+                    OR
+                  </div>
                   <div className="card bg-base-300 rounded-box flex-grow flex flex-col items-center justify-center h-32 lg:h-48 p-4">
                     <h2 className="text-lg font-semibold">Ready Application</h2>
                     <p className="text-sm">
@@ -565,14 +562,15 @@ const Footer = () => {
                 </div>
               </div>
             </div>
-            
+
             <div class="flex flex-col-reverse sm:flex-row items-center justify-between gap-5 pt-7">
               <span class="text-sm font-normal text-gray-400">
                 <a href="https://www.hanucode.com/" class="">
-                <p>&copy; {new Date().getFullYear()} HanuCode. All rights reserved.</p>
-                  
+                  <p>
+                    &copy; {new Date().getFullYear()} HanuCode. All rights
+                    reserved.
+                  </p>
                 </a>{" "}
-
               </span>
               <div class="relative  text-gray-500 focus-within:text-gray-900 ">
                 <div class="absolute inset-y-0 right-6 flex items-center pl-3 pointer-events-none ">
