@@ -233,7 +233,6 @@ const Cards = () => {
             className="rounded-xl bg-white p-6 text-center shadow-xl"
           >
             <div className="mx-auto flex h-16 w-16 -translate-y-12 transform items-center justify-center rounded-full shadow-lg bg-rose-500 shadow-rose-500/40">
-      
               <svg
                 viewBox="0 0 48 48"
                 fill="none"
