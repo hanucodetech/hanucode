@@ -73,9 +73,9 @@ const Contact = () => {
                       Our Address
                     </h3>
                     <p className="mt-1 mb-2 text-gray-600">
-                      Sco. 52, Jlpl,
+                      Sector. 66, Near Sector 59 Metro Station,
                       <br />
-                      Sec. 82, Mohali, Chandigarh 140308
+                      Gautam Buddh Nagar, Noida 201301
                     </p>
                     <hr/>
                     <p className="mt-2 text-gray-600">

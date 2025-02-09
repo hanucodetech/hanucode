@@ -21,10 +21,10 @@ const WorkDone = () => {
     address: [
       {
         "@type": "PostalAddress",
-        streetAddress: "Sco. 52, Sector 82, JLPL Industrial Area",
-        addressLocality: "Sahibzada Ajit Singh Nagar",
-        addressRegion: "Mohali",
-        postalCode: "140308",
+        streetAddress: "Sector 66, Near Sector 59 Metro Station",
+        addressLocality: "Gautam Buddh Nagar",
+        addressRegion: "Noida",
+        postalCode: "201301",
         addressCountry: "India",
       },
       {

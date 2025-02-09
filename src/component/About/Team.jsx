@@ -25,8 +25,8 @@ const Team = () => {
             <div class="w-full lg:w-1/2 lg:mt-0 md:mt-40 mt-16 max-lg:max-w-2xl">
               <div class="grid grid-cols-1 min-[450px]:grid-cols-1 md:grid-cols-1 gap-4">
                 <img
-                  src={neerajpic}
-                  //src="https://pagedone.io/asset/uploads/1696238702.png"
+                  // src={neerajpic}
+                  src="https://pagedone.io/asset/uploads/1696238702.png"
                   alt="Hanu Code team"
                   class="w-44 h-56 rounded-2xl object-cover md:mt-20 mx-auto min-[450px]:mr-0"
                 />
