@@ -7,10 +7,10 @@ export default function Logo({ className = '' }) {
       <Image
         src="/images/brand/hanucode-logo.svg"
         alt="HanuCode logo"
-        width={160}
-        height={32}
+        width={190}
+        height={60}
         priority
-        className="h-8 w-auto"
+        className="h-12 w-auto"
       />
     </Link>
   );
