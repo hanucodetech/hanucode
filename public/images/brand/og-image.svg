@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0f2341"/>
+  <rect width="1200" height="630" fill="url(#bg)" opacity="0.5"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="400" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <text x="100" y="280" font-family="system-ui, sans-serif" font-size="72" font-weight="700" fill="white">Hanu</text>
+  <text x="340" y="280" font-family="system-ui, sans-serif" font-size="72" font-weight="700" fill="url(#textGrad)">Code</text>
+  <text x="100" y="360" font-family="system-ui, sans-serif" font-size="32" fill="#94a3b8">Building Ideas into Software</text>
+</svg>

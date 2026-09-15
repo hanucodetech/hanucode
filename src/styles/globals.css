@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-950: #0a1628;
+  --color-navy-900: #0f2341;
+  --color-navy-800: #1a365d;
+  --color-navy-700: #234876;
+  --color-slate-850: #1e293b;
+  --color-brand-blue: #2563eb;
+  --color-brand-cyan: #06b6d4;
+  --color-brand-teal: #14b8a6;
+  --color-brand-green: #22c55e;
+  --color-brand-yellow: #eab308;
+  --color-brand-orange: #f97316;
+  --color-surface: #f8fafc;
+  --color-surface-alt: #f1f5f9;
+  --color-border-light: #e2e8f0;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  body {
+    @apply bg-white text-slate-700 antialiased;
+  }
+
+  ::selection {
+    @apply bg-brand-cyan/20 text-navy-900;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-brand-cyan;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-brand-blue via-brand-cyan to-brand-teal bg-clip-text text-transparent;
+  }
+
+  .bg-brand-gradient {
+    @apply bg-gradient-to-r from-brand-blue via-brand-cyan to-brand-teal;
+  }
+
+  .bg-brand-gradient-subtle {
+    background: linear-gradient(
+      135deg,
+      rgba(37, 99, 235, 0.08) 0%,
+      rgba(6, 182, 212, 0.06) 50%,
+      rgba(20, 184, 166, 0.04) 100%
+    );
+  }
+
+  .section-padding {
+    @apply py-16 md:py-20 lg:py-24;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-lg;
+  }
+}
